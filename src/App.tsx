@@ -1,11 +1,14 @@
 import './App.css';
-
-/**
- * Задачи описаны в Read.me файле
- */
-
+import {ProdutsList} from "./products-list/ProdutsList.tsx";
+import {CreateProductForm} from "./products-creation/CreateProductForm.tsx";
 function App() {
-  return <div>Test Task 1</div>;
+  return (
+      <div className={"text-black overflow-y-auto"}>
+        <h1 className={"text-4xl font-bold"}>Fantastik Shop!</h1>
+          <CreateProductForm />
+          <ProdutsList />
+      </div>
+  );
 }
 
 export default App;

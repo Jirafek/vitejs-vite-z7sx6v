@@ -2,26 +2,31 @@
   {
     "id": "1_bananas",
     "title": "Bananas",
-    "description": "Yellow fruits from Africa"
+    "description": "Yellow fruits from Africa",
+    "price": 2.99
   },
   {
     "id": "2_book",
     "title": "Book",
-    "description": "Awersome book for your library"
+    "description": "Awersome book for your library",
+    "price": 12.99
   },
   {
     "id": "3_videogame",
     "title": "Videogame",
-    "description": "Amazing videogame for your pleasure time"
+    "description": "Amazing videogame for your pleasure time",
+    "price": 59.99
   },
   {
     "id": "4_notebook",
     "title": "Notebook",
-    "description": "A 30-page notebook to record your thoughts"
+    "description": "A 30-page notebook to record your thoughts",
+    "price": 1.99
   },
   {
     "id": "5_laptop",
     "title": "Laptop",
-    "description": "Moders technology Laptop for yuor hacking!"
+    "description": "Modern technology Laptop for your hacking!",
+    "price": 999.99
   }
 ]
